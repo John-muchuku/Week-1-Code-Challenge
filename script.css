@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+label {
+	font-size: 20px;
+}
+
+input {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+button {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+#result {
+	font-size: 30px;
+	margin-top: 50px;
+	text-align: center;
+}
